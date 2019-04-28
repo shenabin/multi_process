@@ -1,4 +1,5 @@
 # 思考，线程闲着的时候该干嘛
+# 该睡觉
 from multiprocessing import Pool  
 import time
 
